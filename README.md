@@ -12,7 +12,7 @@ OLED + Arduino Nano + 9v battery fitable models
 <br/>
 
 
-<img src="/c113a81cb473d0589e9d4e218cd2cd0.jpg" alt="Alt text" title="Optional title"  height="500" width="800">
+<img src="/c113a81cb473d0589e9d4e218cd2cd0.jpg" alt="Alt text" title="Optional title"  height="400" width="800">
 
 <br/>
 
